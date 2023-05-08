@@ -26,6 +26,7 @@
 		8616E81A2A095A9D0028F1D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8616E81D2A095A9D0028F1D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8616E81F2A095A9D0028F1D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8616E82E2A096C090028F1D9 /* Simulator Screen Recording - iPhone 14 Pro - 2023-05-08 at 18.41.06.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Simulator Screen Recording - iPhone 14 Pro - 2023-05-08 at 18.41.06.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		8616E8102A095A9D0028F1D9 /* LoginRxSwift */ = {
 			isa = PBXGroup;
 			children = (
+				8616E82A2A096BC80028F1D9 /* media */,
 				8616E8112A095A9D0028F1D9 /* AppDelegate.swift */,
 				8616E8132A095A9D0028F1D9 /* SceneDelegate.swift */,
 				8616E8152A095A9D0028F1D9 /* ViewController.swift */,
@@ -69,6 +71,14 @@
 				8616E81F2A095A9D0028F1D9 /* Info.plist */,
 			);
 			path = LoginRxSwift;
+			sourceTree = "<group>";
+		};
+		8616E82A2A096BC80028F1D9 /* media */ = {
+			isa = PBXGroup;
+			children = (
+				8616E82E2A096C090028F1D9 /* Simulator Screen Recording - iPhone 14 Pro - 2023-05-08 at 18.41.06.gif */,
+			);
+			path = media;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

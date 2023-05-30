@@ -65,3 +65,7 @@ class LoginViewModel {
     }
 }
 
+//test
+// test
+var test = Int.min
+var neTest = "jdjd"
